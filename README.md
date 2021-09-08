@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **zcmk123/zcmk123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Weekly DevTime
+![DoubleBird's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DoubleBird&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
