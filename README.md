@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Weekly DevTime
+### Wakatime Stats
 ![DoubleBird's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DoubleBird&theme=blueberry)
 
 ### Coding Activity
