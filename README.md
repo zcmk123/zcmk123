@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://wakatime.com/badge/user/1450589c-3994-4f43-8c80-2d22fa249802.svg" />
+
 ### Wakatime Stats
 ![DoubleBird's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DoubleBird&theme=blueberry)
 
