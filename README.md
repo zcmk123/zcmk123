@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 ### Weekly Dev Languages
 <img src="https://wakatime.com/share/@DoubleBird/ccb7fd79-425e-4040-8e09-b63cd42f1fb4.svg" width=60% />
+
+### Visitors
+<a href="https://info.flagcounter.com/N5vW"><img src="https://s11.flagcounter.com/count2/N5vW/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
