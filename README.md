@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 <img src="https://wakatime.com/badge/user/1450589c-3994-4f43-8c80-2d22fa249802.svg" />
 
-### Wakatime Stats
-![DoubleBird's wakatime stats](https://github-readme-stats-zcmk123.vercel.app/api/wakatime?username=DoubleBird&theme=blueberry)
+<!-- ### Wakatime Stats -->
+<!-- ![DoubleBird's wakatime stats](https://github-readme-stats-zcmk123.vercel.app/api/wakatime?username=DoubleBird&theme=blueberry) -->
+[![Top Langs](https://github-readme-stats-zcmk123.vercel.app/api/top-langs/?username=zcmk123)](https://github.com/zcmk123)
 
 ### Coding Activity
 <img src="https://wakatime.com/share/@DoubleBird/db0ab3b4-bff2-4342-a8f6-194d366b7398.svg" width=60% />
