@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- ### Wakatime Stats -->
 <!-- ![DoubleBird's wakatime stats](https://github-readme-stats-zcmk123.vercel.app/api/wakatime?username=DoubleBird&theme=blueberry) -->
-[![Top Langs](https://github-readme-stats-zcmk123.vercel.app/api/top-langs/?username=zcmk123)](https://github.com/zcmk123)
+[![Github Stats](https://github-readme-stats-zcmk123.vercel.app/api?username=zcmk123&theme=default&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/zcmk123)
 
 ### Coding Activity
 <img src="https://wakatime.com/share/@DoubleBird/db0ab3b4-bff2-4342-a8f6-194d366b7398.svg" width=45% />
