@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Contact: 214778293@qq.com
+
+### Hobby: :snowboarder: :bow_and_arrow: :badminton:
+
 <img src="https://wakatime.com/badge/user/1450589c-3994-4f43-8c80-2d22fa249802.svg" />
 
 <!-- ### Wakatime Stats -->
