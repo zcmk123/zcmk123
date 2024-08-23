@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Github Stats](https://github-readme-stats-zcmk123.vercel.app/api?username=zcmk123&theme=default&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/zcmk123)
 
 ### Coding Activity
-<img src="https://wakatime.com/share/@DoubleBird/db0ab3b4-bff2-4342-a8f6-194d366b7398.svg" width=45% />
+<img src="https://wakatime.com/share/@DoubleBird/8fb4df04-3936-4b50-8ad6-bee091cb1ed5.svg" />
 
 ### Weekly Dev Languages
 <img src="https://wakatime.com/share/@DoubleBird/ccb7fd79-425e-4040-8e09-b63cd42f1fb4.svg" width=45% />
